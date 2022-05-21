@@ -5,6 +5,8 @@
 - 💻 Buscando meu primeiro emprego na área de tecnologia 
 - 📘 Buscando sempre aprender mais...
 - 😄 #BuildTheFuture
+- 😄 #BuildTheFuture
+- 😄 #BuildTheFuture
 
 <div align="center">
   <a href="https://github.com/Filipee01">
