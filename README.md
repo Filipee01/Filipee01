@@ -3,12 +3,13 @@
 - 👾 Desenvolvedor Front-end
 - 📩 Contate-me no e-mail : luizlipinho-2011@hotmail.com
 - 💻 Buscando meu primeiro emprego na área de tecnologia 
+- 📘 Buscando sempre aprender mais...
 - 😄 #BuildTheFuture
 
 <div align="center">
   <a href="https://github.com/Filipee01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipee01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipee01&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipee01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipee01&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
