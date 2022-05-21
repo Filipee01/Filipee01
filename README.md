@@ -32,5 +32,7 @@
   ![Snake animation](https://github.com/Filipee01/Filipee01/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Filipee01&repo=Filipee01&theme=react)](https://github.com/Filipee01/Filipee01)
  
 
