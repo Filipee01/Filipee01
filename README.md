@@ -1,6 +1,6 @@
 ##Olá, Eu sou o Luiz Filipe
 
-- 👾 Desenvolvedor Front-end Jr
+- 👾 Desenvolvedor Front-end
 - 📩 Contate-me no e-mail : luizlipinho-2011@hotmail.com
 - 💻 Buscando meu primeiro emprego na área de tecnologia 
 - 📘 Buscando sempre aprender mais...
@@ -15,6 +15,7 @@
   ##
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
