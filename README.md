@@ -1,6 +1,6 @@
 ##Olá, Eu sou o Luiz Filipe
 
-- 👾 Desenvolvedor Front-end Jr
+- 👾 Estudante de Ciência da Computação - CI UFPB
 - 📩 Contate-me no e-mail : luizlipinho-2011@hotmail.com
 - 💻 Buscando meu primeiro emprego na área de tecnologia 
 - 📘 Buscando sempre aprender mais...
