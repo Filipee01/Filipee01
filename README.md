@@ -3,13 +3,13 @@
 - 👾 Estudante de Ciência da Computação - CI UFPB
 - 📩 Contate-me no e-mail : luizlipinho-2011@hotmail.com
 - 💻 Buscando meu primeiro emprego na área de tecnologia 
-- 📘 Buscando sempre aprender mais...
-- 😄 #BuildTheFuture
+- 📘 Estudando desenvolvimento web Full Stack
+
 
 <div align="center">
   <a href="https://github.com/Filipee01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipee01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipee01&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipee01&layout=compact&langs_count=7&theme=white"/>
 </div>
   
   ##
