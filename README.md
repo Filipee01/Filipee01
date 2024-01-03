@@ -19,7 +19,7 @@ Olá! Me chamo Luiz Filipe
   <hr/>
   
 
-# Linguagens
+# Tecnologias
 
 
 <div>
