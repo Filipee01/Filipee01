@@ -1,19 +1,19 @@
 # 👋 Hi there! I'm Luiz Filipe
 
--🎓 Computer Science Student at Federal University of Paraíba (UFPB).
--🌐 Passionate about Full Stack Web Development.
--💻 Currently enhancing my skills in React and TypeScript for front-end development.
--🔍 Learning C++ and Java for back-end development.
--🛠️ Proficient in C, JavaScript, HTML, and CSS.
--🌟 Open to collaborations on exciting projects that make a difference.
--🚀 Aspiring to contribute to open-source projects and build innovative solutions.
+- 🎓 Computer Science Student at Federal University of Paraíba (UFPB).
+- 🌐 Passionate about Full Stack Web Development.
+- 💻 Currently enhancing my skills in React and TypeScript for front-end development.
+- 🔍 Learning C++ and Java for back-end development.
+- 🛠️ Proficient in C, JavaScript, HTML, and CSS.
+- 🌟 Open to collaborations on exciting projects that make a difference.
+- 🚀 Aspiring to contribute to open-source projects and build innovative solutions.
 
 # 🔭 I'm currently:
 - Working on personal projects to deepen my understanding of web development.
 - Exploring new technologies and frameworks.
 - Preparing for my first role in the tech industry.
 
-#📫 How to reach me:
+# 📫 How to reach me:
 - Email: luizlipinho-2011@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/filipee01/
   <hr/>
