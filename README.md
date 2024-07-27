@@ -1,10 +1,21 @@
-Olá! Me chamo Luiz Filipe
+# 👋 Hi there! I'm Luiz Filipe
 
-- 👾 Estudante de Ciência da Computação - CI UFPB
-- 💻 Estudando desenvolvimento web Full Stack
-- 📩 Contate-me no e-mail : luizlipinho-2011@hotmail.com
-- 🔭 Buscando meu primeiro emprego na área de tecnologia 
+-🎓 Computer Science Student at Federal University of Paraíba (UFPB).
+-🌐 Passionate about Full Stack Web Development.
+-💻 Currently enhancing my skills in React and TypeScript for front-end development.
+-🔍 Learning C++ and Java for back-end development.
+-🛠️ Proficient in C, JavaScript, HTML, and CSS.
+-🌟 Open to collaborations on exciting projects that make a difference.
+-🚀 Aspiring to contribute to open-source projects and build innovative solutions.
 
+# 🔭 I'm currently:
+- Working on personal projects to deepen my understanding of web development.
+- Exploring new technologies and frameworks.
+- Preparing for my first role in the tech industry.
+
+#📫 How to reach me:
+- Email: luizlipinho-2011@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/filipee01/
   <hr/>
   
 # Status
@@ -19,7 +30,7 @@ Olá! Me chamo Luiz Filipe
   <hr/>
   
 
-# Tecnologias
+# Technologies
 
 
 <div>
@@ -35,7 +46,7 @@ Olá! Me chamo Luiz Filipe
 
 <hr/>
 
-# Contato
+# Contact
 
 <div> 
 <a href="https://www.instagram.com/filipee.01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
