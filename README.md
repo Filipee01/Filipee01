@@ -21,10 +21,8 @@
 # Status
 
 <div align="center">
-  <a href="https://github.com/Filipee01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipee01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/Filipee01">
+<a href="https://github.com/Filipee01/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Filipee01&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 </a>
 
