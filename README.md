@@ -1,4 +1,6 @@
-# 👋 Hi there! I'm Luiz Filipe
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello+There!;I'm+Luiz+Filipe,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
 
 - 🎓 Computer Science Student at Federal University of Paraíba (UFPB).
 - 🌐 Passionate about Full Stack Web Development.
@@ -62,6 +64,8 @@
 <a href="https://www.linkedin.com/in/filipee01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
   
 
 
