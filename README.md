@@ -14,10 +14,7 @@
 - Working on personal projects to deepen my understanding of web development.
 - Exploring new technologies and frameworks.
 - Preparing for my first role in the tech industry.
-
-# 📫 How to reach me:
-- Email: luizlipinho-2011@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/filipee01/
+  
   <hr/>
   
 # Status
@@ -55,7 +52,7 @@
 
 <hr/>
 
-# Contact
+# 📫 How to reach me:
 
 <div> 
 <a href="https://www.instagram.com/filipee.01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
