@@ -1,14 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03ddff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello+There!;I'm+Luiz+Filipe,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=03ddff&size=35&center=true&vCenter=true&width=1000&lines=Hello+There!;I'm+Luiz+Filipe,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
 
 - 🎓 Computer Science Student at Federal University of Paraíba (UFPB).
 - 🌐 Passionate about Full Stack Web Development.
 - 💻 Currently enhancing my skills in React and TypeScript for front-end development.
 - 🔍 Learning C++ and Java for back-end development.
 - 🛠️ Proficient in C, JavaScript, HTML, and CSS.
-- 🌟 Open to collaborations on exciting projects that make a difference.
-- 🚀 Aspiring to contribute to open-source projects and build innovative solutions.
 
 # 🔭 I'm currently:
 - Working on personal projects to deepen my understanding of web development.
@@ -69,7 +67,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03ddff&height=120&section=footer"/>
   
 
 
