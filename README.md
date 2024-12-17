@@ -4,8 +4,7 @@
 
 - 🎓 Computer Science Student at Federal University of Paraíba (UFPB).
 - 🌐 Passionate about Full Stack Web Development.
-- 💻 Currently enhancing my skills in React and TypeScript for front-end development.
-- 🛠️ Proficient in C, C++, JavaScript, HTML, and CSS.
+- 💻 Currently enhancing my skills in React and TypeScript.
 
 # 🔭 I'm currently:
 - Working on personal projects to deepen my understanding of web development.
