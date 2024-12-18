@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF2&size=35&center=true&vCenter=true&width=1000&lines=Hello+There!;I'm+Luiz+Filipe,+Welcome+to+my+profile👋;I+hope+you+enjoy+my+projects+:%29)](https://git.io/typing-svg)
 
 - 🎓 Computer Science Student at Federal University of Paraíba (UFPB).
-- 🌐 Passionate about Full Stack Web Development.
+- 🌐 Passionate about Full Stack Development.
 - 💻 Currently enhancing my skills in React and TypeScript.
 
 # 🔭 I'm currently:
