@@ -46,6 +46,8 @@
 <img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width = "48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<img src="https://cdn.simpleicons.org/cypress" height="40" alt="cypress logo" />
+  <img width="12" />
   
 </div>
 
