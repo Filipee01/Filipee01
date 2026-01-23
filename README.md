@@ -6,7 +6,7 @@
 
 ### Software Quality Engineer 💻
 
-Tenho 23 anos e sou de Pernambuco. Atualmente atuo como QA e estudo Ciência da Computação na Universidade Federal da Paraíba e sou apaixonado por tecnologia e programação.
+Tenho 24 anos e sou de Pernambuco. Atualmente atuo como QA e estudo Ciência da Computação na Universidade Federal da Paraíba e sou apaixonado por tecnologia e programação.
 
 ---
 
